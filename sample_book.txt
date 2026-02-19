@@ -1,0 +1,19 @@
+The History of Artificial Intelligence
+
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by humans or animals. Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+
+The term "artificial intelligence" was first coined by John McCarthy in 1956 when he held the first academic conference on the subject at Dartmouth College. However, the journey began much earlier.
+
+In the 1940s and 50s, a handful of scientists from a variety of fields (mathematics, psychology, engineering, economics and political science) began to discuss the possibility of creating an artificial brain. The field of AI research was founded as an academic discipline in 1956.
+
+The early years were full of optimism. Herbert Simon predicted, "machines will be capable, within twenty years, of doing any work a man can do." Marvin Minsky agreed, writing, "within a generation ... the problem of creating 'artificial intelligence' will substantially be solved."
+
+However, progress slowed, and in 1974, in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects, both the US and British governments cut off all undirected exploratory research in AI. The next few years would later be called an "AI winter," a period when obtaining funding for AI projects was difficult.
+
+In the early 1980s, AI research was revived by the commercial success of expert systems, a form of AI program that simulated the knowledge and analytical skills of human experts. By 1985, the market for AI had reached over a billion dollars. At the same time, Japan's fifth generation computer project inspired the US and British governments to restore funding for academic research in the field.
+
+However, beginning with the collapse of the Lisp Machine market in 1987, AI once again fell into disrepute, and a second, longer-lasting hiatus began.
+
+In the late 1990s and early 21st century, AI began to be used for logistics, data mining, medical diagnosis and other areas. The success was due to increasing computational power (see Moore's law), greater emphasis on solving specific problems, new ties between AI and other fields (such as statistics, economics and mathematics), and a commitment by researchers to mathematical methods and scientific standards.
+
+Deep learning, a subset of machine learning, has been the dominant approach since the 2010s. The release of ChatGPT by OpenAI in November 2022 is considered a significant milestone in the history of AI.
